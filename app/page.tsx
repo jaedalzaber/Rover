@@ -177,7 +177,7 @@ export default function Page() {
 						</View>
 					</div>
 					<div className="navigation z-10  w-4/5 flex p-5 items-center  flex-row h-full justify-between">
-						<div className="w-1/2 flex item-start flex-col">screen
+						<div className="w-1/2 flex item-start flex-col">
 							<h1 className={`${myFont.className} tracking-wideest text-2xl font-black mb-24 py-5 border-neutral-300 border-b-[2px] border-opacity-50`}>Our Vision</h1>
 							<div className="">We are a team of students npassionate about designing and building the next generation of Mars and Lunar rovers.<br /><br />
 
